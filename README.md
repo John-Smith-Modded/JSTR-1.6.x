@@ -1,90 +1,37 @@
-![John Smith: Technician's Remix](http://i.imgur.com/Fyl6xYX.png)  
+![John Smith: Technician's Remix](http://i.imgur.com/rmdNmOC.jpg)  
 
 ### Welcome to the John Smith: Technician's Remix 1.6 Repository ###
 ------------------------------------------------------------------
 
 ### ***JSTR for MC 1.6*** ###
 
-Please be aware due to constant state of flux MC has been experencing in relation to texture/resource packs within the past few months, the 1.6 JSTR is in a very WIP state at the moment.  This will hopefully stablise as future versions of MC release without further changes, we can then focus on mod additions alone, rather than completlely converting each and every texture to suit the new formats.
+This repository is for modded texture version control. This is where all the JSTR modded textures reside. Please be aware due to constant state of flux MC has been experencing in relation to texture/resource packs JSTR is in a very WIP state at the moment. Feel free to hope on board and help out with making textures! Just remember to follow the guidelines below.
 
+#### JSTR Guidelines: ####
+
+* Be careful to style your work to match the graphics of JSTR. If you are unsure if a texture fits open an issue.
+* Feel free to use any texture in the repository or from vanilla, but do not claim them as your own.
+* Top level folders should be the capitalized, separated by underscores, mod name.
+* If there is a breaking texture change to the legacy versions of the mod, open an issue.
+* When adding a mod, your commit message should have the version number that it is compatible with in it.
+* When updating a mod to work with a newer version, your commit message should have the version number that it is updated to.
 
 #### JSTR Collaborators: ####
 
+* Glowstrontium
+* Zica
+* goldbattle
+* Leenhaart
 * jlbrewer
 * Satellence
-* Glowstrontium
-* goldbattle
-* Zica
-* Leenhaart  
 [More...](https://github.com/Glowstrontium/JSTR_MC-1.6/graphs/contributors)
 
 
+#### How to submit your own textures: ####
 
-#### **STATUS:** ####
+_This requires moderate git/Github knowledge; if you need any help, feel free to contact us._
 
-* * *
-
-* Advanced IC2 Machines - OK
-* Advanced Solar Panels - OK
-* Applied Energistics - OK
-* Bibliocraft - OK
-* Buildcraft - OK
-* ChickenChunks - OK
-* CoFH Core - OK
-* CompactSolars - OK
-* ComputerCraft - OK
-* EnderStorage - OK  
-* Gravisuite - OK
-* Iron Chests - OK
-* Logistics Pipes - OK
-* Minefactory Reloaded - OK
-* Mystcraft - OK
-* NEI - OK
-* Nether Ores - OK
-* Portal Gun - OK
-* Railcraft - OK
-* Soul Shards - OK
-* Thermal Expansion 3 - OK
-* WRCBE - OK
-* Underground Biomes - OK
-
-* * *
-
-* Biomes 'O' Plenty - Incomplete
-* Denpipes - Outdated
-* Dimensional Doors - Incomplete
-* Ender IO - Incomplete
-* Extra Bees - Incomplete
-* Extra Biomes XL - Incomplete/Outdated
-* Factorization - Incomplete
-* Forestry - Incomplete
-* GregTech - Incomplete
-* Industrial Craft EXP - Incomplete
-* JABBA - Incomplete
-* Magic Bees - Incomplete
-* Millenaire - Incomplete
-* Natura - Incomplete
-* Nether Ores - Incomplete
-* Plugins for Forestry - Incomplete  
-* Project Red - Incomplete
-* Steve's Carts 2 - Incomplete
-* Thaumcraft 4 - Incomplete
-* Thaumic Tinkerer - Incomplete
-* Tinkers Construct - Incomplete
-* Twilight Forest - Incomplete
-
-* * *
-
-* MiscPeripherals - Awaiting port from 1.4
-* MFFS - Awaiting port from 1.5
-* Power Converters - Awaiting port from 1.5
-* TubeStuff - Awaiting port from 1.4
-
-* * *
-
-* Greg's Lighting - Obsolete
-* Petroleum Generator - Obsolete
-* Project Bench - Obsolete
-* Redpower 2 - Obsolete
-* Thaumcraft 3 - Obsolete
-* Xycraft - Obsolete
+* Fork this repository to your account.
+* Commit all of your textures to your forked repository.
+* Open a pull request from your repository to this one with a concise explanation of your changes.
+* When your pull request has been merged, delete your fork and refork.
